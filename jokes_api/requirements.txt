@@ -1,5 +1,0 @@
-fastapi
-sqlalchemy
-mysql-connector-python
-requests
-uvicorn

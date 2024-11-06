@@ -3,3 +3,9 @@ sqlalchemy
 mysql-connector-python
 requests
 uvicorn
+
+fastapi
+sqlalchemy
+mysql-connector-python
+requests
+uvicorn
